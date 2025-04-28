@@ -9,6 +9,8 @@ const Hero = () => {
           iPhone 15 Pro
         </p>
 
+        <p>ABCD EF G</p>
+
       </div>
     </section>
   )
